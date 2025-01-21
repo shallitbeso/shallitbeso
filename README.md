@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning 3d gaussian splatting
 - 💞️ I’m looking to collaborate on reducing the memory usage of 3d gaussian splatting
 - 📫 How to reach me: lh-zhang@outlook.com
-- 😄 Pronouns: he
+- 😄 Pronouns: whatever
 - ⚡ Fun fact: enjoy playing guitar
 
 <!---
