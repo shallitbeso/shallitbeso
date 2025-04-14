@@ -2,9 +2,9 @@
 - 👀 I’m interested in Computer Vision
 - 🌱 I’m currently learning 3d gaussian splatting
 - 💞️ I’m looking to collaborate on reducing the memory usage of 3d gaussian splatting
-- 📫 How to reach me: lh-zhang@outlook.com
+- 📫 How to reach me: lh-zhang@m.scnu.edu.cn
 - 😄 Pronouns: whatever
-- ⚡ Fun fact: enjoy playing guitar
+- ⚡ Fun fact: enjoy playing blues guitar!
 
 <!---
 shallitbeso/shallitbeso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
