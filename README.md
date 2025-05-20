@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @shallitbeso, you can also call me nico!
-- 👀 I’m interested in Computer Vision
-- 🌱 I’m currently learning 3d gaussian splatting
-- 💞️ I’m looking to collaborate on reducing the memory usage of 3d gaussian splatting
-- 📫 How to reach me: lh-zhang@m.scnu.edu.cn
-- 😄 Pronouns: whatever
-- ⚡ Fun fact: enjoy playing blues guitar!
+-👋 Hi, I'm @shallitbeso (or you can call me Nico)!
+
+-👀 I'm passionate about Computer Vision, especially interested in 3D scene reconstruction and rendering techniques.
+
+-🌱 Currently diving into the world of **3D Gaussian Splatting**, exploring efficient algorithms to optimize memory usage.
+
+-💞️ I'm looking forward to collaborating with fellow researchers or engineers interested in optimizing memory efficiency in 3D Gaussian Splatting methods.
+
+-📫 Feel free to reach out via email: lh-zhang@m.scnu.edu.cn
+
+-😄 Pronouns: Whatever works for you!
+
+-🎶 Fun fact: In my spare time, you'll find me jamming to some blues guitar🎸.
 
 <!---
 shallitbeso/shallitbeso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
